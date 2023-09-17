@@ -1,0 +1,4 @@
+compute-wer --text --mode=present ark:/root/k0/egs/Capstone_ASR/exp/mono/decode/scoring_kaldi/test_filt.txt ark,p:- 
+%WER 91.19 [ 47942 / 52576, 4 ins, 25771 del, 22167 sub ]
+%SER 99.96 [ 2619 / 2620 ]
+Scored 2620 sentences, 0 not present in hyp.

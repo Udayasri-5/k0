@@ -1,0 +1,2620 @@
+1089-134686-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:17
+1089-134686-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:273
+1089-134686-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:529
+1089-134686-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:785
+1089-134686-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:1041
+1089-134686-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:1297
+1089-134686-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:1553
+1089-134686-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:1809
+1089-134686-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:2065
+1089-134686-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:2321
+1089-134686-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:2577
+1089-134686-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:2833
+1089-134686-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:3089
+1089-134686-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:3345
+1089-134686-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:3601
+1089-134686-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:3857
+1089-134686-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:4113
+1089-134686-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:4369
+1089-134686-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:4625
+1089-134686-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:4881
+1089-134686-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:5137
+1089-134686-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:5393
+1089-134686-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:5649
+1089-134686-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:5905
+1089-134686-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:6161
+1089-134686-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:6417
+1089-134686-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:6673
+1089-134686-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:6929
+1089-134686-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:7185
+1089-134686-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:7441
+1089-134686-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:7697
+1089-134686-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:7953
+1089-134686-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:8209
+1089-134686-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:8465
+1089-134686-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:8721
+1089-134686-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:8977
+1089-134686-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:9233
+1089-134686-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:9489
+1089-134691-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:9745
+1089-134691-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:10001
+1089-134691-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:10257
+1089-134691-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:10513
+1089-134691-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:10769
+1089-134691-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:11025
+1089-134691-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:11281
+1089-134691-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:11537
+1089-134691-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:11793
+1089-134691-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:12049
+1089-134691-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:12305
+1089-134691-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:12561
+1089-134691-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:12817
+1089-134691-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:13073
+1089-134691-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:13329
+1089-134691-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:13585
+1089-134691-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:13841
+1089-134691-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:14097
+1089-134691-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:14353
+1089-134691-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:14609
+1089-134691-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:14865
+1089-134691-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:15121
+1089-134691-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:15377
+1089-134691-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:15633
+1089-134691-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:15889
+1089-134691-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:16145
+1188-133604-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:16401
+1188-133604-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:16657
+1188-133604-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:16913
+1188-133604-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:17169
+1188-133604-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:17425
+1188-133604-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:17681
+1188-133604-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:17937
+1188-133604-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:18193
+1188-133604-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:18449
+1188-133604-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:18705
+1188-133604-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:18961
+1188-133604-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:19217
+1188-133604-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:19473
+1188-133604-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:19729
+1188-133604-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:19985
+1188-133604-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:20241
+1188-133604-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:20497
+1188-133604-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:20753
+1188-133604-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:21009
+1188-133604-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:21265
+1188-133604-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:21521
+1188-133604-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:21777
+1188-133604-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:22033
+1188-133604-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:22289
+1188-133604-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:22545
+1188-133604-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:22801
+1188-133604-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:23057
+1188-133604-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:23313
+1188-133604-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:23569
+1188-133604-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:23825
+1188-133604-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:24081
+1188-133604-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:24337
+1188-133604-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:24593
+1188-133604-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:24849
+1188-133604-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:25105
+1188-133604-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:25361
+1188-133604-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:25617
+1188-133604-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:25873
+1188-133604-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:26129
+1188-133604-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:26385
+1188-133604-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:26641
+1188-133604-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:26897
+1188-133604-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:27153
+1188-133604-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:27409
+1188-133604-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:27665
+121-121726-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:27920
+121-121726-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:28175
+121-121726-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:28430
+121-121726-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:28685
+121-121726-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:28940
+121-121726-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:29195
+121-121726-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:29450
+121-121726-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:29705
+121-121726-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:29960
+121-121726-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:30215
+121-121726-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:30470
+121-121726-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:30725
+121-121726-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:30980
+121-121726-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:31235
+121-121726-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:31490
+121-123852-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:31745
+121-123852-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:32000
+121-123852-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:32255
+121-123852-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:32510
+121-123852-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:32765
+121-123859-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:33020
+121-123859-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:33275
+121-123859-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:33530
+121-123859-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:33785
+121-123859-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:34040
+121-127105-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:34295
+121-127105-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:34550
+121-127105-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:34805
+121-127105-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:35060
+121-127105-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:35315
+121-127105-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:35570
+121-127105-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:35825
+121-127105-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:36080
+121-127105-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:36335
+121-127105-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:36590
+121-127105-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:36845
+121-127105-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:37100
+121-127105-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:37355
+121-127105-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:37610
+121-127105-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:37865
+121-127105-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:38120
+121-127105-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:38375
+121-127105-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:38630
+121-127105-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:38885
+121-127105-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:39140
+121-127105-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:39395
+121-127105-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:39650
+121-127105-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:39905
+121-127105-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:40160
+121-127105-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:40415
+121-127105-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:40670
+121-127105-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:40925
+121-127105-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:41180
+121-127105-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:41435
+121-127105-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:41690
+121-127105-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:41945
+121-127105-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:42200
+121-127105-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:42455
+121-127105-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:42710
+121-127105-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:42965
+121-127105-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:43220
+121-127105-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:43475
+1221-135766-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:43731
+1221-135766-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:43987
+1221-135766-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:44243
+1221-135766-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:44499
+1221-135766-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:44755
+1221-135766-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:45011
+1221-135766-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:45267
+1221-135766-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:45523
+1221-135766-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:45779
+1221-135766-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:46035
+1221-135766-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:46291
+1221-135766-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:46547
+1221-135766-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:46803
+1221-135766-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:47059
+1221-135766-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:47315
+1221-135766-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:47571
+1221-135767-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:47827
+1221-135767-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:48083
+1221-135767-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:48339
+1221-135767-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:48595
+1221-135767-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:48851
+1221-135767-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:49107
+1221-135767-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:49363
+1221-135767-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:49619
+1221-135767-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:49875
+1221-135767-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:50131
+1221-135767-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:50387
+1221-135767-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:50643
+1221-135767-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:50899
+1221-135767-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:51155
+1221-135767-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:51411
+1221-135767-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:51667
+1221-135767-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:51923
+1221-135767-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:52179
+1221-135767-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:52435
+1221-135767-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:52691
+1221-135767-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:52947
+1221-135767-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:53203
+1221-135767-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:53459
+1221-135767-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:53715
+1221-135767-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:53971
+1284-1180-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:54225
+1284-1180-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:54479
+1284-1180-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:54733
+1284-1180-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:54987
+1284-1180-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:55241
+1284-1180-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:55495
+1284-1180-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:55749
+1284-1180-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:56003
+1284-1180-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:56257
+1284-1180-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:56511
+1284-1180-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:56765
+1284-1180-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:57019
+1284-1180-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:57273
+1284-1180-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:57527
+1284-1180-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:57781
+1284-1180-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:58035
+1284-1180-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:58289
+1284-1180-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:58543
+1284-1180-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:58797
+1284-1180-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:59051
+1284-1180-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:59305
+1284-1180-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:59559
+1284-1180-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:59813
+1284-1180-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:60067
+1284-1180-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:60321
+1284-1180-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:60575
+1284-1180-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:60829
+1284-1180-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:61083
+1284-1180-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:61337
+1284-1180-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:61591
+1284-1180-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:61845
+1284-1180-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:62099
+1284-1180-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:62353
+1284-1181-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:62607
+1284-1181-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:62861
+1284-1181-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:63115
+1284-1181-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:63369
+1284-1181-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:63623
+1284-1181-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:63877
+1284-1181-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:64131
+1284-1181-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:64385
+1284-1181-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:64639
+1284-1181-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:64893
+1284-1181-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:65147
+1284-1181-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:65401
+1284-1181-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:65655
+1284-1181-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:65909
+1284-1181-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:66163
+1284-1181-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:66417
+1284-1181-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:66671
+1284-1181-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:66925
+1284-1181-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:67179
+1284-1181-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:67433
+1284-1181-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:67687
+1284-1181-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:67941
+1284-134647-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:68197
+1284-134647-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:68453
+1284-134647-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:68709
+1284-134647-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:68965
+1284-134647-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:69221
+1284-134647-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:69477
+1284-134647-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:69733
+1284-134647-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:69989
+1320-122612-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:70245
+1320-122612-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:70501
+1320-122612-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:70757
+1320-122612-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:71013
+1320-122612-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:71269
+1320-122612-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:71525
+1320-122612-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:71781
+1320-122612-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:72037
+1320-122612-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:72293
+1320-122612-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:72549
+1320-122612-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:72805
+1320-122612-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:73061
+1320-122612-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:73317
+1320-122612-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:73573
+1320-122612-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:73829
+1320-122612-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:74085
+1320-122612-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:74341
+1320-122617-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:74597
+1320-122617-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:74853
+1320-122617-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:75109
+1320-122617-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:75365
+1320-122617-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:75621
+1320-122617-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:75877
+1320-122617-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:76133
+1320-122617-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:76389
+1320-122617-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:76645
+1320-122617-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:76901
+1320-122617-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:77157
+1320-122617-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:77413
+1320-122617-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:77669
+1320-122617-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:77925
+1320-122617-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:78181
+1320-122617-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:78437
+1320-122617-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:78693
+1320-122617-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:78949
+1320-122617-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:79205
+1320-122617-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:79461
+1320-122617-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:79717
+1320-122617-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:79973
+1320-122617-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:80229
+1320-122617-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:80485
+1320-122617-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:80741
+1320-122617-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:80997
+1320-122617-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:81253
+1320-122617-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:81509
+1320-122617-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:81765
+1320-122617-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:82021
+1320-122617-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:82277
+1320-122617-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:82533
+1320-122617-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:82789
+1320-122617-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:83045
+1320-122617-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:83301
+1320-122617-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:83557
+1320-122617-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:83813
+1320-122617-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:84069
+1320-122617-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:84325
+1320-122617-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:84581
+1320-122617-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:84837
+1320-122617-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:85093
+1580-141083-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:85349
+1580-141083-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:85605
+1580-141083-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:85861
+1580-141083-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:86117
+1580-141083-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:86373
+1580-141083-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:86629
+1580-141083-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:86885
+1580-141083-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:87141
+1580-141083-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:87397
+1580-141083-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:87653
+1580-141083-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:87909
+1580-141083-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:88165
+1580-141083-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:88421
+1580-141083-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:88677
+1580-141083-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:88933
+1580-141083-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:89189
+1580-141083-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:89445
+1580-141083-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:89701
+1580-141083-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:89957
+1580-141083-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:90213
+1580-141083-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:90469
+1580-141083-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:90725
+1580-141083-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:90981
+1580-141083-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:91237
+1580-141083-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:91493
+1580-141083-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:91749
+1580-141083-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:92005
+1580-141083-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:92261
+1580-141083-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:92517
+1580-141083-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:92773
+1580-141083-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:93029
+1580-141083-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:93285
+1580-141083-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:93541
+1580-141083-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:93797
+1580-141083-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:94053
+1580-141083-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:94309
+1580-141083-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:94565
+1580-141083-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:94821
+1580-141083-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:95077
+1580-141083-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:95333
+1580-141083-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:95589
+1580-141083-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:95845
+1580-141083-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:96101
+1580-141083-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:96357
+1580-141083-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:96613
+1580-141083-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:96869
+1580-141083-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:97125
+1580-141083-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:97381
+1580-141083-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:97637
+1580-141083-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:97893
+1580-141083-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:98149
+1580-141083-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:98405
+1580-141083-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:98661
+1580-141083-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:98917
+1580-141084-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:99173
+1580-141084-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:99429
+1580-141084-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:99685
+1580-141084-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:99941
+1580-141084-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:100197
+1580-141084-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:100453
+1580-141084-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:100709
+1580-141084-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:100965
+1580-141084-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:101221
+1580-141084-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:101477
+1580-141084-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:101733
+1580-141084-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:101989
+1580-141084-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:102245
+1580-141084-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:102501
+1580-141084-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:102757
+1580-141084-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:103013
+1580-141084-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:103269
+1580-141084-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:103525
+1580-141084-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:103781
+1580-141084-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:104037
+1580-141084-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:104293
+1580-141084-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:104549
+1580-141084-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:104805
+1580-141084-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:105061
+1580-141084-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:105317
+1580-141084-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:105573
+1580-141084-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:105829
+1580-141084-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:106085
+1580-141084-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:106341
+1580-141084-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:106597
+1580-141084-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:106853
+1580-141084-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:107109
+1580-141084-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:107365
+1580-141084-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:107621
+1580-141084-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:107877
+1580-141084-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:108133
+1580-141084-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:108389
+1580-141084-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:108645
+1580-141084-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:108901
+1580-141084-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:109157
+1580-141084-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:109413
+1580-141084-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:109669
+1580-141084-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:109925
+1580-141084-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:110181
+1580-141084-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:110437
+1580-141084-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:110693
+1580-141084-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:110949
+1580-141084-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:111205
+1580-141084-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:111461
+1580-141084-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:111717
+1580-141084-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:111973
+1995-1826-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:112227
+1995-1826-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:112481
+1995-1826-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:112735
+1995-1826-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:112989
+1995-1826-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:113243
+1995-1826-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:113497
+1995-1826-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:113751
+1995-1826-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:114005
+1995-1826-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:114259
+1995-1826-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:114513
+1995-1826-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:114767
+1995-1826-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:115021
+1995-1826-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:115275
+1995-1826-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:115529
+1995-1826-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:115783
+1995-1826-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:116037
+1995-1826-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:116291
+1995-1826-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:116545
+1995-1826-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:116799
+1995-1826-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:117053
+1995-1826-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:117307
+1995-1826-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:117561
+1995-1826-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:117815
+1995-1826-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:118069
+1995-1826-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:118323
+1995-1826-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:118577
+1995-1826-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:118831
+1995-1836-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:119085
+1995-1836-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:119339
+1995-1836-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:119593
+1995-1836-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:119847
+1995-1836-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:120101
+1995-1836-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:120355
+1995-1836-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:120609
+1995-1836-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:120863
+1995-1836-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:121117
+1995-1836-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:121371
+1995-1836-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:121625
+1995-1836-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:121879
+1995-1836-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:122133
+1995-1836-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:122387
+1995-1836-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:122641
+1995-1837-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:122895
+1995-1837-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:123149
+1995-1837-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:123403
+1995-1837-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:123657
+1995-1837-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:123911
+1995-1837-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:124165
+1995-1837-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:124419
+1995-1837-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:124673
+1995-1837-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:124927
+1995-1837-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:125181
+1995-1837-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:125435
+1995-1837-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:125689
+1995-1837-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:125943
+1995-1837-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:126197
+1995-1837-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:126451
+1995-1837-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:126705
+1995-1837-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:126959
+1995-1837-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:127213
+1995-1837-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:127467
+1995-1837-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:127721
+1995-1837-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:127975
+1995-1837-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:128229
+1995-1837-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:128483
+1995-1837-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:128737
+1995-1837-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:128991
+1995-1837-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:129245
+1995-1837-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:129499
+1995-1837-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:129753
+1995-1837-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:130007
+1995-1837-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:130261
+2094-142345-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:130517
+2094-142345-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:130773
+2094-142345-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:131029
+2094-142345-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:131285
+2094-142345-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:131541
+2094-142345-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:131797
+2094-142345-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:132053
+2094-142345-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:132309
+2094-142345-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:132565
+2094-142345-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:132821
+2094-142345-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:133077
+2094-142345-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:133333
+2094-142345-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:133589
+2094-142345-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:133845
+2094-142345-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:134101
+2094-142345-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:134357
+2094-142345-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:134613
+2094-142345-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:134869
+2094-142345-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:135125
+2094-142345-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:135381
+2094-142345-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:135637
+2094-142345-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:135893
+2094-142345-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:136149
+2094-142345-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:136405
+2094-142345-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:136661
+2094-142345-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:136917
+2094-142345-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:137173
+2094-142345-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:137429
+2094-142345-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:137685
+2094-142345-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:137941
+2094-142345-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:138197
+2094-142345-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:138453
+2094-142345-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:138709
+2094-142345-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:138965
+2094-142345-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:139221
+2094-142345-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:139477
+2094-142345-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:139733
+2094-142345-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:139989
+2094-142345-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:140245
+2094-142345-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:140501
+2094-142345-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:140757
+2094-142345-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:141013
+2094-142345-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:141269
+2094-142345-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:141525
+2094-142345-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:141781
+2094-142345-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:142037
+2094-142345-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:142293
+2094-142345-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:142549
+2094-142345-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:142805
+2094-142345-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:143061
+2094-142345-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:143317
+2094-142345-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:143573
+2094-142345-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:143829
+2094-142345-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:144085
+2094-142345-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:144341
+2094-142345-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:144597
+2094-142345-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:144853
+2094-142345-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:145109
+2094-142345-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:145365
+2094-142345-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:145621
+2094-142345-0060 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:145877
+2300-131720-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:146133
+2300-131720-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:146389
+2300-131720-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:146645
+2300-131720-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:146901
+2300-131720-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:147157
+2300-131720-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:147413
+2300-131720-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:147669
+2300-131720-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:147925
+2300-131720-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:148181
+2300-131720-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:148437
+2300-131720-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:148693
+2300-131720-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:148949
+2300-131720-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:149205
+2300-131720-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:149461
+2300-131720-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:149717
+2300-131720-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:149973
+2300-131720-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:150229
+2300-131720-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:150485
+2300-131720-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:150741
+2300-131720-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:150997
+2300-131720-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:151253
+2300-131720-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:151509
+2300-131720-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:151765
+2300-131720-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:152021
+2300-131720-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:152277
+2300-131720-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:152533
+2300-131720-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:152789
+2300-131720-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:153045
+2300-131720-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:153301
+2300-131720-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:153557
+2300-131720-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:153813
+2300-131720-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:154069
+2300-131720-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:154325
+2300-131720-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:154581
+2300-131720-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:154837
+2300-131720-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:155093
+2300-131720-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:155349
+2300-131720-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:155605
+2300-131720-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:155861
+2300-131720-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:156117
+2300-131720-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:156373
+2300-131720-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:156629
+237-126133-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:156884
+237-126133-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:157139
+237-126133-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:157394
+237-126133-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:157649
+237-126133-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:157904
+237-126133-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:158159
+237-126133-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:158414
+237-126133-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:158669
+237-126133-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:158924
+237-126133-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:159179
+237-126133-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:159434
+237-126133-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:159689
+237-126133-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:159944
+237-126133-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:160199
+237-126133-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:160454
+237-126133-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:160709
+237-126133-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:160964
+237-126133-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:161219
+237-126133-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:161474
+237-126133-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:161729
+237-126133-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:161984
+237-126133-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:162239
+237-126133-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:162494
+237-126133-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:162749
+237-126133-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:163004
+237-126133-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:163259
+237-134493-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:163514
+237-134493-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:163769
+237-134493-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:164024
+237-134493-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:164279
+237-134493-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:164534
+237-134493-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:164789
+237-134493-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:165044
+237-134493-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:165299
+237-134493-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:165554
+237-134493-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:165809
+237-134493-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:166064
+237-134493-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:166319
+237-134493-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:166574
+237-134493-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:166829
+237-134493-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:167084
+237-134493-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:167339
+237-134493-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:167594
+237-134493-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:167849
+237-134493-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:168104
+237-134500-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:168359
+237-134500-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:168614
+237-134500-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:168869
+237-134500-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:169124
+237-134500-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:169379
+237-134500-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:169634
+237-134500-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:169889
+237-134500-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:170144
+237-134500-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:170399
+237-134500-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:170654
+237-134500-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:170909
+237-134500-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:171164
+237-134500-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:171419
+237-134500-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:171674
+237-134500-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:171929
+237-134500-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:172184
+237-134500-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:172439
+237-134500-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:172694
+237-134500-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:172949
+237-134500-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:173204
+237-134500-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:173459
+237-134500-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:173714
+237-134500-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:173969
+237-134500-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:174224
+237-134500-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:174479
+237-134500-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:174734
+237-134500-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:174989
+237-134500-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:175244
+237-134500-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:175499
+237-134500-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:175754
+237-134500-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:176009
+237-134500-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:176264
+237-134500-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:176519
+237-134500-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:176774
+237-134500-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:177029
+237-134500-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:177284
+237-134500-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:177539
+237-134500-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:177794
+237-134500-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:178049
+237-134500-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:178304
+237-134500-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:178559
+237-134500-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:178814
+237-134500-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:179069
+260-123286-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:179324
+260-123286-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:179579
+260-123286-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:179834
+260-123286-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:180089
+260-123286-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:180344
+260-123286-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:180599
+260-123286-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:180854
+260-123286-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:181109
+260-123286-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:181364
+260-123286-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:181619
+260-123286-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:181874
+260-123286-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:182129
+260-123286-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:182384
+260-123286-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:182639
+260-123286-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:182894
+260-123286-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:183149
+260-123286-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:183404
+260-123286-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:183659
+260-123286-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:183914
+260-123286-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:184169
+260-123286-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:184424
+260-123286-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:184679
+260-123286-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:184934
+260-123286-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:185189
+260-123286-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:185444
+260-123286-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:185699
+260-123286-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:185954
+260-123286-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:186209
+260-123286-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:186464
+260-123286-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:186719
+260-123286-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:186974
+260-123286-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:187229
+260-123288-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:187484
+260-123288-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:187739
+260-123288-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:187994
+260-123288-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:188249
+260-123288-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:188504
+260-123288-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:188759
+260-123288-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:189014
+260-123288-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:189269
+260-123288-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:189524
+260-123288-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:189779
+260-123288-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:190034
+260-123288-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:190289
+260-123288-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:190544
+260-123288-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:190799
+260-123288-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:191054
+260-123288-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:191309
+260-123288-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:191564
+260-123288-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:191819
+260-123288-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:192074
+260-123288-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:192329
+260-123288-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:192584
+260-123288-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:192839
+260-123288-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:193094
+260-123288-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:193349
+260-123288-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:193604
+260-123288-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:193859
+260-123288-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:194114
+260-123288-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:194369
+260-123288-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:194624
+260-123440-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:194879
+260-123440-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:195134
+260-123440-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:195389
+260-123440-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:195644
+260-123440-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:195899
+260-123440-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:196154
+260-123440-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:196409
+260-123440-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:196664
+260-123440-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:196919
+260-123440-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:197174
+260-123440-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:197429
+260-123440-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:197684
+260-123440-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:197939
+260-123440-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:198194
+260-123440-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:198449
+260-123440-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:198704
+260-123440-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:198959
+260-123440-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:199214
+260-123440-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:199469
+260-123440-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:199724
+260-123440-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:199979
+2830-3979-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:200233
+2830-3979-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:200487
+2830-3979-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:200741
+2830-3979-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:200995
+2830-3979-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:201249
+2830-3979-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:201503
+2830-3979-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:201757
+2830-3979-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:202011
+2830-3979-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:202265
+2830-3979-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:202519
+2830-3979-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:202773
+2830-3979-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:203027
+2830-3979-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:203281
+2830-3980-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:203535
+2830-3980-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:203789
+2830-3980-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:204043
+2830-3980-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:204297
+2830-3980-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:204551
+2830-3980-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:204805
+2830-3980-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:205059
+2830-3980-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:205313
+2830-3980-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:205567
+2830-3980-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:205821
+2830-3980-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:206075
+2830-3980-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:206329
+2830-3980-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:206583
+2830-3980-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:206837
+2830-3980-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:207091
+2830-3980-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:207345
+2830-3980-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:207599
+2830-3980-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:207853
+2830-3980-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:208107
+2830-3980-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:208361
+2830-3980-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:208615
+2830-3980-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:208869
+2830-3980-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:209123
+2830-3980-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:209377
+2830-3980-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:209631
+2830-3980-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:209885
+2830-3980-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:210139
+2830-3980-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:210393
+2830-3980-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:210647
+2830-3980-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:210901
+2830-3980-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:211155
+2830-3980-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:211409
+2830-3980-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:211663
+2830-3980-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:211917
+2830-3980-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:212171
+2830-3980-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:212425
+2830-3980-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:212679
+2830-3980-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:212933
+2830-3980-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:213187
+2830-3980-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:213441
+2830-3980-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:213695
+2830-3980-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:213949
+2830-3980-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:214203
+2830-3980-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:214457
+2830-3980-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:214711
+2830-3980-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:214965
+2830-3980-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:215219
+2830-3980-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:215473
+2830-3980-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:215727
+2830-3980-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:215981
+2830-3980-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:216235
+2830-3980-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:216489
+2830-3980-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:216743
+2830-3980-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:216997
+2830-3980-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:217251
+2830-3980-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:217505
+2830-3980-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:217759
+2830-3980-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:218013
+2830-3980-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:218267
+2830-3980-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:218521
+2830-3980-0060 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:218775
+2830-3980-0061 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:219029
+2830-3980-0062 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:219283
+2830-3980-0063 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:219537
+2830-3980-0064 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:219791
+2830-3980-0065 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:220045
+2830-3980-0066 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:220299
+2830-3980-0067 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:220553
+2830-3980-0068 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:220807
+2830-3980-0069 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:221061
+2830-3980-0070 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:221315
+2830-3980-0071 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:221569
+2830-3980-0072 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:221823
+2830-3980-0073 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:222077
+2830-3980-0074 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:222331
+2830-3980-0075 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:222585
+2830-3980-0076 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:222839
+2961-960-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:223092
+2961-960-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:223345
+2961-960-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:223598
+2961-960-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:223851
+2961-960-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:224104
+2961-960-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:224357
+2961-960-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:224610
+2961-960-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:224863
+2961-960-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:225116
+2961-960-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:225369
+2961-960-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:225622
+2961-960-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:225875
+2961-960-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:226128
+2961-960-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:226381
+2961-960-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:226634
+2961-960-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:226887
+2961-960-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:227140
+2961-960-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:227393
+2961-960-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:227646
+2961-960-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:227899
+2961-960-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:228152
+2961-960-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:228405
+2961-960-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:228658
+2961-961-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:228911
+2961-961-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:229164
+2961-961-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:229417
+2961-961-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:229670
+2961-961-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:229923
+2961-961-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:230176
+2961-961-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:230429
+2961-961-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:230682
+2961-961-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:230935
+2961-961-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:231188
+2961-961-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:231441
+2961-961-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:231694
+2961-961-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:231947
+2961-961-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:232200
+2961-961-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:232453
+2961-961-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:232706
+2961-961-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:232959
+2961-961-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:233212
+2961-961-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:233465
+2961-961-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:233718
+2961-961-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:233971
+2961-961-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:234224
+2961-961-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:234477
+3570-5694-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:234731
+3570-5694-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:234985
+3570-5694-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:235239
+3570-5694-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:235493
+3570-5694-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:235747
+3570-5694-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:236001
+3570-5694-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:236255
+3570-5694-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:236509
+3570-5694-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:236763
+3570-5694-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:237017
+3570-5694-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:237271
+3570-5694-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:237525
+3570-5694-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:237779
+3570-5694-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:238033
+3570-5694-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:238287
+3570-5694-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:238541
+3570-5694-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:238795
+3570-5694-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:239049
+3570-5694-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:239303
+3570-5694-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:239557
+3570-5694-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:239811
+3570-5694-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:240065
+3570-5694-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:240319
+3570-5695-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:240573
+3570-5695-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:240827
+3570-5695-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:241081
+3570-5695-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:241335
+3570-5695-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:241589
+3570-5695-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:241843
+3570-5695-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:242097
+3570-5695-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:242351
+3570-5695-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:242605
+3570-5695-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:242859
+3570-5695-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:243113
+3570-5695-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:243367
+3570-5695-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:243621
+3570-5695-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:243875
+3570-5695-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:244129
+3570-5695-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:244383
+3570-5696-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:244637
+3570-5696-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:244891
+3570-5696-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:245145
+3570-5696-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:245399
+3570-5696-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:245653
+3570-5696-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:245907
+3570-5696-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:246161
+3570-5696-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:246415
+3570-5696-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:246669
+3570-5696-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:246923
+3570-5696-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:247177
+3575-170457-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:247433
+3575-170457-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:247689
+3575-170457-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:247945
+3575-170457-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:248201
+3575-170457-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:248457
+3575-170457-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:248713
+3575-170457-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:248969
+3575-170457-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:249225
+3575-170457-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:249481
+3575-170457-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:249737
+3575-170457-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:249993
+3575-170457-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:250249
+3575-170457-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:250505
+3575-170457-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:250761
+3575-170457-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:251017
+3575-170457-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:251273
+3575-170457-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:251529
+3575-170457-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:251785
+3575-170457-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:252041
+3575-170457-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:252297
+3575-170457-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:252553
+3575-170457-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:252809
+3575-170457-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:253065
+3575-170457-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:253321
+3575-170457-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:253577
+3575-170457-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:253833
+3575-170457-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:254089
+3575-170457-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:254345
+3575-170457-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:254601
+3575-170457-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:254857
+3575-170457-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:255113
+3575-170457-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:255369
+3575-170457-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:255625
+3575-170457-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:255881
+3575-170457-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:256137
+3575-170457-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:256393
+3575-170457-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:256649
+3575-170457-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:256905
+3575-170457-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:257161
+3575-170457-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:257417
+3575-170457-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:257673
+3575-170457-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:257929
+3575-170457-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:258185
+3575-170457-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:258441
+3575-170457-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:258697
+3575-170457-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:258953
+3575-170457-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:259209
+3575-170457-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:259465
+3575-170457-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:259721
+3575-170457-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:259977
+3575-170457-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:260233
+3575-170457-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:260489
+3575-170457-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:260745
+3575-170457-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:261001
+3575-170457-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:261257
+3575-170457-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:261513
+3575-170457-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:261769
+3729-6852-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:262023
+3729-6852-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:262277
+3729-6852-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:262531
+3729-6852-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:262785
+3729-6852-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:263039
+3729-6852-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:263293
+3729-6852-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:263547
+3729-6852-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:263801
+3729-6852-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:264055
+3729-6852-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:264309
+3729-6852-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:264563
+3729-6852-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:264817
+3729-6852-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:265071
+3729-6852-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:265325
+3729-6852-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:265579
+3729-6852-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:265833
+3729-6852-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:266087
+3729-6852-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:266341
+3729-6852-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:266595
+3729-6852-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:266849
+3729-6852-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:267103
+3729-6852-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:267357
+3729-6852-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:267611
+3729-6852-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:267865
+3729-6852-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:268119
+3729-6852-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:268373
+3729-6852-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:268627
+3729-6852-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:268881
+3729-6852-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:269135
+3729-6852-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:269389
+3729-6852-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:269643
+3729-6852-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:269897
+3729-6852-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:270151
+3729-6852-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:270405
+3729-6852-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:270659
+3729-6852-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:270913
+3729-6852-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:271167
+3729-6852-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:271421
+3729-6852-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:271675
+3729-6852-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:271929
+3729-6852-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:272183
+3729-6852-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:272437
+3729-6852-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:272691
+3729-6852-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:272945
+3729-6852-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:273199
+3729-6852-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:273453
+3729-6852-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:273707
+4077-13751-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:273962
+4077-13751-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:274217
+4077-13751-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:274472
+4077-13751-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:274727
+4077-13751-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:274982
+4077-13751-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:275237
+4077-13751-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:275492
+4077-13751-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:275747
+4077-13751-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:276002
+4077-13751-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:276257
+4077-13751-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:276512
+4077-13751-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:276767
+4077-13751-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:277022
+4077-13751-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:277277
+4077-13751-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:277532
+4077-13751-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:277787
+4077-13751-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:278042
+4077-13751-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:278297
+4077-13751-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:278552
+4077-13751-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:278807
+4077-13751-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:279062
+4077-13751-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:279317
+4077-13754-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:279572
+4077-13754-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:279827
+4077-13754-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:280082
+4077-13754-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:280337
+4077-13754-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:280592
+4077-13754-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:280847
+4077-13754-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:281102
+4077-13754-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:281357
+4077-13754-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:281612
+4077-13754-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:281867
+4077-13754-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:282122
+4077-13754-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:282377
+4077-13754-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:282632
+4077-13754-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:282887
+4077-13754-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:283142
+4077-13754-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:283397
+4077-13754-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:283652
+4446-2271-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:283906
+4446-2271-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:284160
+4446-2271-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:284414
+4446-2271-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:284668
+4446-2271-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:284922
+4446-2271-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:285176
+4446-2271-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:285430
+4446-2271-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:285684
+4446-2271-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:285938
+4446-2271-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:286192
+4446-2271-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:286446
+4446-2271-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:286700
+4446-2271-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:286954
+4446-2271-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:287208
+4446-2271-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:287462
+4446-2271-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:287716
+4446-2271-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:287970
+4446-2271-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:288224
+4446-2271-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:288478
+4446-2271-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:288732
+4446-2271-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:288986
+4446-2271-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:289240
+4446-2271-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:289494
+4446-2271-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:289748
+4446-2271-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:290002
+4446-2273-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:290256
+4446-2273-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:290510
+4446-2273-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:290764
+4446-2273-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:291018
+4446-2273-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:291272
+4446-2273-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:291526
+4446-2273-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:291780
+4446-2273-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:292034
+4446-2273-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:292288
+4446-2273-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:292542
+4446-2273-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:292796
+4446-2273-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:293050
+4446-2273-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:293304
+4446-2273-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:293558
+4446-2273-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:293812
+4446-2273-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:294066
+4446-2273-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:294320
+4446-2273-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:294574
+4446-2273-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:294828
+4446-2273-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:295082
+4446-2273-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:295336
+4446-2273-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:295590
+4446-2273-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:295844
+4446-2273-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:296098
+4446-2273-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:296352
+4446-2273-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:296606
+4446-2273-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:296860
+4446-2273-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:297114
+4446-2273-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:297368
+4446-2273-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:297622
+4446-2273-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:297876
+4446-2273-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:298130
+4446-2273-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:298384
+4446-2273-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:298638
+4446-2273-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:298892
+4446-2273-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:299146
+4446-2273-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:299400
+4446-2275-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:299654
+4446-2275-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:299908
+4446-2275-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:300162
+4446-2275-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:300416
+4446-2275-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:300670
+4446-2275-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:300924
+4446-2275-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:301178
+4446-2275-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:301432
+4446-2275-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:301686
+4446-2275-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:301940
+4446-2275-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:302194
+4446-2275-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:302448
+4446-2275-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:302702
+4446-2275-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:302956
+4446-2275-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:303210
+4446-2275-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:303464
+4446-2275-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:303718
+4446-2275-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:303972
+4446-2275-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:304226
+4446-2275-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:304480
+4446-2275-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:304734
+4446-2275-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:304988
+4446-2275-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:305242
+4446-2275-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:305496
+4446-2275-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:305750
+4446-2275-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:306004
+4446-2275-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:306258
+4446-2275-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:306512
+4446-2275-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:306766
+4446-2275-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:307020
+4446-2275-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:307274
+4446-2275-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:307528
+4446-2275-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:307782
+4446-2275-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:308036
+4446-2275-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:308290
+4446-2275-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:308544
+4446-2275-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:308798
+4446-2275-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:309052
+4446-2275-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:309306
+4446-2275-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:309560
+4446-2275-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:309814
+4446-2275-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:310068
+4446-2275-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:310322
+4446-2275-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:310576
+4446-2275-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:310830
+4446-2275-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:311084
+4507-16021-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:311339
+4507-16021-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:311594
+4507-16021-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:311849
+4507-16021-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:312104
+4507-16021-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:312359
+4507-16021-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:312614
+4507-16021-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:312869
+4507-16021-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:313124
+4507-16021-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:313379
+4507-16021-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:313634
+4507-16021-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:313889
+4507-16021-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:314144
+4507-16021-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:314399
+4507-16021-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:314654
+4507-16021-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:314909
+4507-16021-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:315164
+4507-16021-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:315419
+4507-16021-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:315674
+4507-16021-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:315929
+4507-16021-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:316184
+4507-16021-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:316439
+4507-16021-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:316694
+4507-16021-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:316949
+4507-16021-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:317204
+4507-16021-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:317459
+4507-16021-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:317714
+4507-16021-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:317969
+4507-16021-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:318224
+4507-16021-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:318479
+4507-16021-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:318734
+4507-16021-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:318989
+4507-16021-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:319244
+4507-16021-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:319499
+4507-16021-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:319754
+4507-16021-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:320009
+4507-16021-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:320264
+4507-16021-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:320519
+4507-16021-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:320774
+4507-16021-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:321029
+4507-16021-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:321284
+4507-16021-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:321539
+4507-16021-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:321794
+4507-16021-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:322049
+4507-16021-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:322304
+4507-16021-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:322559
+4507-16021-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:322814
+4507-16021-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:323069
+4507-16021-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:323324
+4507-16021-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:323579
+4507-16021-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:323834
+4507-16021-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:324089
+4507-16021-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:324344
+4507-16021-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:324599
+4507-16021-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:324854
+4507-16021-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:325109
+4507-16021-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:325364
+4507-16021-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:325619
+4507-16021-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:325874
+4507-16021-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:326129
+4507-16021-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:326384
+4970-29093-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:326639
+4970-29093-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:326894
+4970-29093-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:327149
+4970-29093-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:327404
+4970-29093-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:327659
+4970-29093-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:327914
+4970-29093-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:328169
+4970-29093-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:328424
+4970-29093-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:328679
+4970-29093-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:328934
+4970-29093-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:329189
+4970-29093-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:329444
+4970-29093-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:329699
+4970-29093-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:329954
+4970-29093-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:330209
+4970-29093-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:330464
+4970-29093-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:330719
+4970-29093-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:330974
+4970-29093-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:331229
+4970-29093-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:331484
+4970-29093-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:331739
+4970-29093-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:331994
+4970-29093-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:332249
+4970-29093-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:332504
+4970-29095-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:332759
+4970-29095-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:333014
+4970-29095-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:333269
+4970-29095-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:333524
+4970-29095-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:333779
+4970-29095-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:334034
+4970-29095-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:334289
+4970-29095-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:334544
+4970-29095-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:334799
+4970-29095-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:335054
+4970-29095-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:335309
+4970-29095-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:335564
+4970-29095-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:335819
+4970-29095-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:336074
+4970-29095-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:336329
+4970-29095-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:336584
+4970-29095-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:336839
+4970-29095-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:337094
+4970-29095-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:337349
+4970-29095-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:337604
+4970-29095-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:337859
+4970-29095-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:338114
+4970-29095-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:338369
+4970-29095-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:338624
+4970-29095-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:338879
+4970-29095-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:339134
+4970-29095-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:339389
+4970-29095-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:339644
+4970-29095-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:339899
+4970-29095-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:340154
+4970-29095-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:340409
+4970-29095-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:340664
+4970-29095-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:340919
+4970-29095-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:341174
+4970-29095-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:341429
+4970-29095-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:341684
+4970-29095-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:341939
+4970-29095-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:342194
+4970-29095-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:342449
+4992-23283-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:342704
+4992-23283-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:342959
+4992-23283-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:343214
+4992-23283-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:343469
+4992-23283-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:343724
+4992-23283-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:343979
+4992-23283-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:344234
+4992-23283-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:344489
+4992-23283-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:344744
+4992-23283-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:344999
+4992-23283-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:345254
+4992-23283-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:345509
+4992-23283-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:345764
+4992-23283-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:346019
+4992-23283-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:346274
+4992-23283-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:346529
+4992-23283-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:346784
+4992-23283-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:347039
+4992-23283-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:347294
+4992-23283-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:347549
+4992-23283-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:347804
+4992-41797-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:348059
+4992-41797-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:348314
+4992-41797-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:348569
+4992-41797-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:348824
+4992-41797-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:349079
+4992-41797-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:349334
+4992-41797-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:349589
+4992-41797-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:349844
+4992-41797-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:350099
+4992-41797-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:350354
+4992-41797-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:350609
+4992-41797-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:350864
+4992-41797-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:351119
+4992-41797-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:351374
+4992-41797-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:351629
+4992-41797-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:351884
+4992-41797-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:352139
+4992-41797-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:352394
+4992-41797-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:352649
+4992-41797-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:352904
+4992-41797-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:353159
+4992-41797-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:353414
+4992-41797-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:353669
+4992-41806-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:353924
+4992-41806-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:354179
+4992-41806-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:354434
+4992-41806-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:354689
+4992-41806-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:354944
+4992-41806-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:355199
+4992-41806-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:355454
+4992-41806-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:355709
+4992-41806-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:355964
+4992-41806-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:356219
+4992-41806-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:356474
+4992-41806-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:356729
+4992-41806-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:356984
+4992-41806-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:357239
+4992-41806-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:357494
+4992-41806-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:357749
+4992-41806-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:358004
+4992-41806-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:358259
+5105-28233-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:358514
+5105-28233-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:358769
+5105-28233-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:359024
+5105-28233-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:359279
+5105-28233-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:359534
+5105-28233-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:359789
+5105-28233-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:360044
+5105-28233-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:360299
+5105-28233-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:360554
+5105-28233-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:360809
+5105-28233-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:361064
+5105-28240-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:361319
+5105-28240-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:361574
+5105-28240-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:361829
+5105-28240-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:362084
+5105-28240-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:362339
+5105-28240-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:362594
+5105-28240-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:362849
+5105-28240-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:363104
+5105-28240-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:363359
+5105-28240-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:363614
+5105-28240-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:363869
+5105-28240-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:364124
+5105-28240-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:364379
+5105-28240-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:364634
+5105-28240-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:364889
+5105-28240-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:365144
+5105-28240-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:365399
+5105-28240-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:365654
+5105-28240-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:365909
+5105-28240-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:366164
+5105-28240-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:366419
+5105-28240-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:366674
+5105-28240-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:366929
+5105-28240-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:367184
+5105-28240-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:367439
+5105-28241-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:367694
+5105-28241-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:367949
+5105-28241-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:368204
+5105-28241-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:368459
+5105-28241-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:368714
+5105-28241-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:368969
+5105-28241-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:369224
+5105-28241-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:369479
+5105-28241-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:369734
+5105-28241-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:369989
+5105-28241-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:370244
+5105-28241-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:370499
+5105-28241-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:370754
+5105-28241-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:371009
+5105-28241-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:371264
+5105-28241-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:371519
+5105-28241-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:371774
+5105-28241-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:372029
+5105-28241-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:372284
+5105-28241-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:372539
+5142-33396-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:372794
+5142-33396-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:373049
+5142-33396-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:373304
+5142-33396-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:373559
+5142-33396-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:373814
+5142-33396-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:374069
+5142-33396-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:374324
+5142-33396-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:374579
+5142-33396-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:374834
+5142-33396-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:375089
+5142-33396-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:375344
+5142-33396-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:375599
+5142-33396-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:375854
+5142-33396-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:376109
+5142-33396-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:376364
+5142-33396-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:376619
+5142-33396-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:376874
+5142-33396-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:377129
+5142-33396-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:377384
+5142-33396-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:377639
+5142-33396-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:377894
+5142-33396-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:378149
+5142-33396-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:378404
+5142-33396-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:378659
+5142-33396-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:378914
+5142-33396-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:379169
+5142-33396-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:379424
+5142-33396-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:379679
+5142-33396-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:379934
+5142-33396-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:380189
+5142-33396-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:380444
+5142-33396-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:380699
+5142-33396-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:380954
+5142-33396-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:381209
+5142-33396-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:381464
+5142-33396-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:381719
+5142-33396-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:381974
+5142-33396-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:382229
+5142-33396-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:382484
+5142-33396-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:382739
+5142-33396-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:382994
+5142-33396-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:383249
+5142-33396-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:383504
+5142-33396-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:383759
+5142-33396-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:384014
+5142-33396-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:384269
+5142-33396-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:384524
+5142-33396-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:384779
+5142-33396-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:385034
+5142-33396-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:385289
+5142-33396-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:385544
+5142-33396-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:385799
+5142-33396-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:386054
+5142-33396-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:386309
+5142-33396-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:386564
+5142-33396-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:386819
+5142-33396-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:387074
+5142-33396-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:387329
+5142-33396-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:387584
+5142-33396-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:387839
+5142-33396-0060 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:388094
+5142-33396-0061 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:388349
+5142-33396-0062 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:388604
+5142-33396-0063 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:388859
+5142-33396-0064 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:389114
+5142-33396-0065 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:389369
+5142-33396-0066 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:389624
+5142-33396-0067 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:389879
+5142-33396-0068 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:390134
+5142-36377-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:390389
+5142-36377-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:390644
+5142-36377-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:390899
+5142-36377-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:391154
+5142-36377-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:391409
+5142-36377-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:391664
+5142-36377-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:391919
+5142-36377-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:392174
+5142-36377-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:392429
+5142-36377-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:392684
+5142-36377-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:392939
+5142-36377-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:393194
+5142-36377-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:393449
+5142-36377-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:393704
+5142-36377-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:393959
+5142-36377-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:394214
+5142-36377-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:394469
+5142-36377-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:394724
+5142-36377-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:394979
+5142-36377-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:395234
+5142-36377-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:395489
+5142-36377-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:395744
+5142-36377-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:395999
+5142-36377-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:396254
+5142-36377-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:396509
+5142-36377-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:396764
+5142-36586-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:397019
+5142-36586-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:397274
+5142-36586-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:397529
+5142-36586-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:397784
+5142-36586-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:398039
+5142-36600-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:398294
+5142-36600-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:398549
+5639-40744-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:398804
+5639-40744-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:399059
+5639-40744-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:399314
+5639-40744-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:399569
+5639-40744-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:399824
+5639-40744-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:400079
+5639-40744-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:400334
+5639-40744-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:400589
+5639-40744-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:400844
+5639-40744-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:401099
+5639-40744-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:401354
+5639-40744-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:401609
+5639-40744-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:401864
+5639-40744-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:402119
+5639-40744-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:402374
+5639-40744-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:402629
+5639-40744-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:402884
+5639-40744-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:403139
+5639-40744-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:403394
+5639-40744-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:403649
+5639-40744-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:403904
+5639-40744-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:404159
+5639-40744-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:404414
+5639-40744-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:404669
+5639-40744-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:404924
+5639-40744-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:405179
+5639-40744-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:405434
+5639-40744-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:405689
+5639-40744-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:405944
+5639-40744-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:406199
+5639-40744-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:406454
+5639-40744-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:406709
+5639-40744-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:406964
+5639-40744-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:407219
+5639-40744-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:407474
+5639-40744-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:407729
+5639-40744-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:407984
+5639-40744-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:408239
+5639-40744-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:408494
+5639-40744-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:408749
+5639-40744-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:409004
+5639-40744-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:409259
+5683-32865-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:409514
+5683-32865-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:409769
+5683-32865-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:410024
+5683-32865-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:410279
+5683-32865-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:410534
+5683-32865-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:410789
+5683-32865-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:411044
+5683-32865-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:411299
+5683-32865-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:411554
+5683-32865-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:411809
+5683-32865-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:412064
+5683-32865-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:412319
+5683-32865-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:412574
+5683-32865-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:412829
+5683-32865-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:413084
+5683-32865-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:413339
+5683-32865-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:413594
+5683-32865-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:413849
+5683-32866-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:414104
+5683-32866-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:414359
+5683-32866-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:414614
+5683-32866-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:414869
+5683-32866-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:415124
+5683-32866-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:415379
+5683-32866-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:415634
+5683-32866-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:415889
+5683-32866-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:416144
+5683-32866-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:416399
+5683-32866-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:416654
+5683-32866-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:416909
+5683-32866-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:417164
+5683-32866-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:417419
+5683-32866-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:417674
+5683-32866-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:417929
+5683-32866-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:418184
+5683-32866-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:418439
+5683-32866-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:418694
+5683-32866-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:418949
+5683-32866-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:419204
+5683-32866-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:419459
+5683-32866-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:419714
+5683-32866-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:419969
+5683-32866-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:420224
+5683-32866-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:420479
+5683-32866-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:420734
+5683-32866-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:420989
+5683-32866-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:421244
+5683-32866-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:421499
+5683-32866-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:421754
+5683-32879-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:422009
+5683-32879-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:422264
+5683-32879-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:422519
+5683-32879-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:422774
+5683-32879-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:423029
+5683-32879-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:423284
+5683-32879-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:423539
+5683-32879-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:423794
+5683-32879-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:424049
+5683-32879-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:424304
+5683-32879-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:424559
+5683-32879-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:424814
+5683-32879-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:425069
+5683-32879-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:425324
+5683-32879-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:425579
+5683-32879-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:425834
+5683-32879-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:426089
+5683-32879-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:426344
+5683-32879-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:426599
+5683-32879-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:426854
+5683-32879-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:427109
+5683-32879-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:427364
+5683-32879-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:427619
+5683-32879-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:427874
+5683-32879-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:428129
+5683-32879-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:428384
+61-70968-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:428637
+61-70968-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:428890
+61-70968-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:429143
+61-70968-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:429396
+61-70968-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:429649
+61-70968-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:429902
+61-70968-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:430155
+61-70968-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:430408
+61-70968-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:430661
+61-70968-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:430914
+61-70968-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:431167
+61-70968-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:431420
+61-70968-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:431673
+61-70968-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:431926
+61-70968-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:432179
+61-70968-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:432432
+61-70968-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:432685
+61-70968-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:432938
+61-70968-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:433191
+61-70968-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:433444
+61-70968-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:433697
+61-70968-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:433950
+61-70968-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:434203
+61-70968-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:434456
+61-70968-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:434709
+61-70968-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:434962
+61-70968-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:435215
+61-70968-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:435468
+61-70968-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:435721
+61-70968-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:435974
+61-70968-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:436227
+61-70968-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:436480
+61-70968-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:436733
+61-70968-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:436986
+61-70968-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:437239
+61-70968-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:437492
+61-70968-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:437745
+61-70968-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:437998
+61-70968-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:438251
+61-70968-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:438504
+61-70968-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:438757
+61-70968-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:439010
+61-70968-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:439263
+61-70968-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:439516
+61-70968-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:439769
+61-70968-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:440022
+61-70968-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:440275
+61-70968-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:440528
+61-70968-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:440781
+61-70968-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:441034
+61-70968-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:441287
+61-70968-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:441540
+61-70968-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:441793
+61-70968-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:442046
+61-70968-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:442299
+61-70968-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:442552
+61-70968-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:442805
+61-70968-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:443058
+61-70968-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:443311
+61-70968-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:443564
+61-70968-0060 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:443817
+61-70968-0061 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:444070
+61-70968-0062 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:444323
+61-70970-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:444576
+61-70970-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:444829
+61-70970-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:445082
+61-70970-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:445335
+61-70970-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:445588
+61-70970-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:445841
+61-70970-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:446094
+61-70970-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:446347
+61-70970-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:446600
+61-70970-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:446853
+61-70970-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:447106
+61-70970-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:447359
+61-70970-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:447612
+61-70970-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:447865
+61-70970-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:448118
+61-70970-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:448371
+61-70970-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:448624
+61-70970-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:448877
+61-70970-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:449130
+61-70970-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:449383
+61-70970-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:449636
+61-70970-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:449889
+61-70970-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:450142
+61-70970-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:450395
+61-70970-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:450648
+61-70970-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:450901
+61-70970-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:451154
+61-70970-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:451407
+61-70970-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:451660
+61-70970-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:451913
+61-70970-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:452166
+61-70970-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:452419
+61-70970-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:452672
+61-70970-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:452925
+61-70970-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:453178
+61-70970-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:453431
+61-70970-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:453684
+61-70970-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:453937
+61-70970-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:454190
+61-70970-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:454443
+61-70970-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:454696
+672-122797-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:454951
+672-122797-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:455206
+672-122797-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:455461
+672-122797-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:455716
+672-122797-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:455971
+672-122797-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:456226
+672-122797-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:456481
+672-122797-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:456736
+672-122797-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:456991
+672-122797-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:457246
+672-122797-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:457501
+672-122797-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:457756
+672-122797-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:458011
+672-122797-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:458266
+672-122797-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:458521
+672-122797-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:458776
+672-122797-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:459031
+672-122797-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:459286
+672-122797-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:459541
+672-122797-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:459796
+672-122797-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:460051
+672-122797-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:460306
+672-122797-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:460561
+672-122797-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:460816
+672-122797-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:461071
+672-122797-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:461326
+672-122797-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:461581
+672-122797-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:461836
+672-122797-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:462091
+672-122797-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:462346
+672-122797-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:462601
+672-122797-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:462856
+672-122797-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:463111
+672-122797-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:463366
+672-122797-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:463621
+672-122797-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:463876
+672-122797-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:464131
+672-122797-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:464386
+672-122797-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:464641
+672-122797-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:464896
+672-122797-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:465151
+672-122797-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:465406
+672-122797-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:465661
+672-122797-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:465916
+672-122797-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:466171
+672-122797-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:466426
+672-122797-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:466681
+672-122797-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:466936
+672-122797-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:467191
+672-122797-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:467446
+672-122797-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:467701
+672-122797-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:467956
+672-122797-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:468211
+672-122797-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:468466
+672-122797-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:468721
+672-122797-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:468976
+672-122797-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:469231
+672-122797-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:469486
+672-122797-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:469741
+672-122797-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:469996
+672-122797-0060 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:470251
+672-122797-0061 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:470506
+672-122797-0062 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:470761
+672-122797-0063 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:471016
+672-122797-0064 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:471271
+672-122797-0065 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:471526
+672-122797-0066 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:471781
+672-122797-0067 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:472036
+672-122797-0068 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:472291
+672-122797-0069 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:472546
+672-122797-0070 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:472801
+672-122797-0071 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:473056
+672-122797-0072 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:473311
+672-122797-0073 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:473566
+672-122797-0074 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:473821
+6829-68769-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:474076
+6829-68769-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:474331
+6829-68769-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:474586
+6829-68769-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:474841
+6829-68769-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:475096
+6829-68769-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:475351
+6829-68769-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:475606
+6829-68769-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:475861
+6829-68769-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:476116
+6829-68769-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:476371
+6829-68769-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:476626
+6829-68769-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:476881
+6829-68769-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:477136
+6829-68769-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:477391
+6829-68769-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:477646
+6829-68769-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:477901
+6829-68769-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:478156
+6829-68769-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:478411
+6829-68769-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:478666
+6829-68769-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:478921
+6829-68769-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:479176
+6829-68769-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:479431
+6829-68769-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:479686
+6829-68769-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:479941
+6829-68769-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:480196
+6829-68769-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:480451
+6829-68769-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:480706
+6829-68769-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:480961
+6829-68769-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:481216
+6829-68769-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:481471
+6829-68769-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:481726
+6829-68769-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:481981
+6829-68769-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:482236
+6829-68769-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:482491
+6829-68769-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:482746
+6829-68769-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:483001
+6829-68769-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:483256
+6829-68769-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:483511
+6829-68769-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:483766
+6829-68769-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:484021
+6829-68769-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:484276
+6829-68769-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:484531
+6829-68769-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:484786
+6829-68769-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:485041
+6829-68769-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:485296
+6829-68769-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:485551
+6829-68769-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:485806
+6829-68769-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:486061
+6829-68769-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:486316
+6829-68769-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:486571
+6829-68769-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:486826
+6829-68769-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:487081
+6829-68769-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:487336
+6829-68769-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:487591
+6829-68771-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:487846
+6829-68771-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:488101
+6829-68771-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:488356
+6829-68771-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:488611
+6829-68771-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:488866
+6829-68771-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:489121
+6829-68771-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:489376
+6829-68771-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:489631
+6829-68771-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:489886
+6829-68771-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:490141
+6829-68771-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:490396
+6829-68771-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:490651
+6829-68771-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:490906
+6829-68771-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:491161
+6829-68771-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:491416
+6829-68771-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:491671
+6829-68771-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:491926
+6829-68771-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:492181
+6829-68771-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:492436
+6829-68771-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:492691
+6829-68771-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:492946
+6829-68771-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:493201
+6829-68771-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:493456
+6829-68771-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:493711
+6829-68771-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:493966
+6829-68771-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:494221
+6829-68771-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:494476
+6829-68771-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:494731
+6829-68771-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:494986
+6829-68771-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:495241
+6829-68771-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:495496
+6829-68771-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:495751
+6829-68771-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:496006
+6829-68771-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:496261
+6829-68771-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:496516
+6829-68771-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:496771
+6829-68771-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:497026
+6930-75918-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:497281
+6930-75918-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:497536
+6930-75918-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:497791
+6930-75918-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:498046
+6930-75918-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:498301
+6930-75918-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:498556
+6930-75918-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:498811
+6930-75918-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:499066
+6930-75918-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:499321
+6930-75918-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:499576
+6930-75918-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:499831
+6930-75918-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:500086
+6930-75918-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:500341
+6930-75918-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:500596
+6930-75918-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:500851
+6930-75918-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:501106
+6930-75918-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:501361
+6930-75918-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:501616
+6930-75918-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:501871
+6930-75918-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:502126
+6930-75918-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:502381
+6930-76324-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:502636
+6930-76324-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:502891
+6930-76324-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:503146
+6930-76324-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:503401
+6930-76324-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:503656
+6930-76324-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:503911
+6930-76324-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:504166
+6930-76324-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:504421
+6930-76324-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:504676
+6930-76324-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:504931
+6930-76324-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:505186
+6930-76324-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:505441
+6930-76324-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:505696
+6930-76324-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:505951
+6930-76324-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:506206
+6930-76324-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:506461
+6930-76324-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:506716
+6930-76324-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:506971
+6930-76324-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:507226
+6930-76324-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:507481
+6930-76324-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:507736
+6930-76324-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:507991
+6930-76324-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:508246
+6930-76324-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:508501
+6930-76324-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:508756
+6930-76324-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:509011
+6930-76324-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:509266
+6930-76324-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:509521
+6930-76324-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:509776
+6930-81414-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:510031
+6930-81414-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:510286
+6930-81414-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:510541
+6930-81414-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:510796
+6930-81414-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:511051
+6930-81414-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:511306
+6930-81414-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:511561
+6930-81414-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:511816
+6930-81414-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:512071
+6930-81414-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:512326
+6930-81414-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:512581
+6930-81414-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:512836
+6930-81414-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:513091
+6930-81414-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:513346
+6930-81414-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:513601
+6930-81414-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:513856
+6930-81414-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:514111
+6930-81414-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:514366
+6930-81414-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:514621
+6930-81414-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:514876
+6930-81414-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:515131
+6930-81414-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:515386
+6930-81414-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:515641
+6930-81414-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:515896
+6930-81414-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:516151
+6930-81414-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:516406
+6930-81414-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:516661
+6930-81414-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:516916
+7021-79730-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:517171
+7021-79730-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:517426
+7021-79730-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:517681
+7021-79730-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:517936
+7021-79730-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:518191
+7021-79730-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:518446
+7021-79730-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:518701
+7021-79730-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:518956
+7021-79730-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:519211
+7021-79730-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:519466
+7021-79740-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:519721
+7021-79740-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:519976
+7021-79740-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:520231
+7021-79740-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:520486
+7021-79740-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:520741
+7021-79740-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:520996
+7021-79740-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:521251
+7021-79740-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:521506
+7021-79740-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:521761
+7021-79740-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:522016
+7021-79740-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:522271
+7021-79740-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:522526
+7021-79740-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:522781
+7021-79740-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:523036
+7021-79740-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:523291
+7021-79759-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:523546
+7021-79759-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:523801
+7021-79759-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:524056
+7021-79759-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:524311
+7021-79759-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:524566
+7021-79759-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:524821
+7021-85628-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:525076
+7021-85628-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:525331
+7021-85628-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:525586
+7021-85628-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:525841
+7021-85628-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:526096
+7021-85628-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:526351
+7021-85628-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:526606
+7021-85628-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:526861
+7021-85628-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:527116
+7021-85628-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:527371
+7021-85628-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:527626
+7021-85628-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:527881
+7021-85628-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:528136
+7021-85628-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:528391
+7021-85628-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:528646
+7021-85628-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:528901
+7021-85628-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:529156
+7021-85628-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:529411
+7021-85628-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:529666
+7021-85628-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:529921
+7021-85628-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:530176
+7021-85628-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:530431
+7021-85628-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:530686
+7021-85628-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:530941
+7021-85628-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:531196
+7021-85628-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:531451
+7021-85628-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:531706
+7021-85628-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:531961
+7127-75946-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:532216
+7127-75946-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:532471
+7127-75946-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:532726
+7127-75946-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:532981
+7127-75946-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:533236
+7127-75946-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:533491
+7127-75946-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:533746
+7127-75946-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:534001
+7127-75946-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:534256
+7127-75946-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:534511
+7127-75946-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:534766
+7127-75946-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:535021
+7127-75946-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:535276
+7127-75946-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:535531
+7127-75946-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:535786
+7127-75946-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:536041
+7127-75946-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:536296
+7127-75946-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:536551
+7127-75946-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:536806
+7127-75946-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:537061
+7127-75946-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:537316
+7127-75946-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:537571
+7127-75946-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:537826
+7127-75946-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:538081
+7127-75946-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:538336
+7127-75946-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:538591
+7127-75946-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:538846
+7127-75946-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:539101
+7127-75946-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:539356
+7127-75946-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:539611
+7127-75947-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:539866
+7127-75947-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:540121
+7127-75947-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:540376
+7127-75947-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:540631
+7127-75947-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:540886
+7127-75947-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:541141
+7127-75947-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:541396
+7127-75947-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:541651
+7127-75947-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:541906
+7127-75947-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:542161
+7127-75947-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:542416
+7127-75947-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:542671
+7127-75947-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:542926
+7127-75947-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:543181
+7127-75947-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:543436
+7127-75947-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:543691
+7127-75947-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:543946
+7127-75947-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:544201
+7127-75947-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:544456
+7127-75947-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:544711
+7127-75947-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:544966
+7127-75947-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:545221
+7127-75947-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:545476
+7127-75947-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:545731
+7127-75947-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:545986
+7127-75947-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:546241
+7127-75947-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:546496
+7127-75947-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:546751
+7127-75947-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:547006
+7127-75947-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:547261
+7127-75947-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:547516
+7127-75947-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:547771
+7127-75947-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:548026
+7127-75947-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:548281
+7127-75947-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:548536
+7127-75947-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:548791
+7127-75947-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:549046
+7127-75947-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:549301
+7127-75947-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:549556
+7127-75947-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:549811
+7127-75947-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:550066
+7176-88083-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:550321
+7176-88083-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:550576
+7176-88083-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:550831
+7176-88083-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:551086
+7176-88083-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:551341
+7176-88083-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:551596
+7176-88083-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:551851
+7176-88083-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:552106
+7176-88083-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:552361
+7176-88083-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:552616
+7176-88083-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:552871
+7176-88083-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:553126
+7176-88083-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:553381
+7176-88083-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:553636
+7176-88083-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:553891
+7176-88083-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:554146
+7176-88083-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:554401
+7176-88083-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:554656
+7176-88083-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:554911
+7176-88083-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:555166
+7176-88083-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:555421
+7176-88083-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:555676
+7176-88083-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:555931
+7176-88083-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:556186
+7176-88083-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:556441
+7176-88083-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:556696
+7176-88083-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:556951
+7176-88083-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:557206
+7176-92135-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:557461
+7176-92135-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:557716
+7176-92135-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:557971
+7176-92135-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:558226
+7176-92135-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:558481
+7176-92135-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:558736
+7176-92135-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:558991
+7176-92135-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:559246
+7176-92135-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:559501
+7176-92135-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:559756
+7176-92135-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:560011
+7176-92135-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:560266
+7176-92135-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:560521
+7176-92135-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:560776
+7176-92135-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:561031
+7176-92135-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:561286
+7176-92135-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:561541
+7176-92135-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:561796
+7176-92135-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:562051
+7176-92135-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:562306
+7176-92135-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:562561
+7176-92135-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:562816
+7176-92135-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:563071
+7176-92135-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:563326
+7176-92135-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:563581
+7176-92135-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:563836
+7176-92135-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:564091
+7176-92135-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:564346
+7176-92135-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:564601
+7176-92135-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:564856
+7176-92135-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:565111
+7176-92135-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:565366
+7176-92135-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:565621
+7176-92135-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:565876
+7176-92135-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:566131
+7176-92135-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:566386
+7176-92135-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:566641
+7176-92135-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:566896
+7176-92135-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:567151
+7176-92135-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:567406
+7176-92135-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:567661
+7176-92135-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:567916
+7176-92135-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:568171
+7176-92135-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:568426
+7176-92135-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:568681
+7176-92135-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:568936
+7729-102255-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:569192
+7729-102255-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:569448
+7729-102255-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:569704
+7729-102255-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:569960
+7729-102255-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:570216
+7729-102255-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:570472
+7729-102255-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:570728
+7729-102255-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:570984
+7729-102255-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:571240
+7729-102255-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:571496
+7729-102255-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:571752
+7729-102255-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:572008
+7729-102255-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:572264
+7729-102255-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:572520
+7729-102255-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:572776
+7729-102255-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:573032
+7729-102255-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:573288
+7729-102255-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:573544
+7729-102255-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:573800
+7729-102255-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:574056
+7729-102255-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:574312
+7729-102255-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:574568
+7729-102255-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:574824
+7729-102255-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:575080
+7729-102255-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:575336
+7729-102255-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:575592
+7729-102255-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:575848
+7729-102255-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:576104
+7729-102255-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:576360
+7729-102255-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:576616
+7729-102255-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:576872
+7729-102255-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:577128
+7729-102255-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:577384
+7729-102255-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:577640
+7729-102255-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:577896
+7729-102255-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:578152
+7729-102255-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:578408
+7729-102255-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:578664
+7729-102255-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:578920
+7729-102255-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:579176
+7729-102255-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:579432
+7729-102255-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:579688
+7729-102255-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:579944
+7729-102255-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:580200
+7729-102255-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:580456
+7729-102255-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:580712
+7729-102255-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:580968
+8224-274381-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:581224
+8224-274381-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:581480
+8224-274381-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:581736
+8224-274381-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:581992
+8224-274381-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:582248
+8224-274381-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:582504
+8224-274381-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:582760
+8224-274381-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:583016
+8224-274381-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:583272
+8224-274381-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:583528
+8224-274381-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:583784
+8224-274381-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:584040
+8224-274381-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:584296
+8224-274381-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:584552
+8224-274381-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:584808
+8224-274381-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:585064
+8224-274381-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:585320
+8224-274381-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:585576
+8224-274384-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:585832
+8224-274384-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:586088
+8224-274384-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:586344
+8224-274384-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:586600
+8224-274384-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:586856
+8224-274384-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:587112
+8224-274384-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:587368
+8224-274384-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:587624
+8224-274384-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:587880
+8224-274384-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:588136
+8224-274384-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:588392
+8224-274384-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:588648
+8224-274384-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:588904
+8224-274384-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:589160
+8230-279154-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:589416
+8230-279154-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:589672
+8230-279154-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:589928
+8230-279154-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:590184
+8230-279154-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:590440
+8230-279154-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:590696
+8230-279154-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:590952
+8230-279154-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:591208
+8230-279154-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:591464
+8230-279154-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:591720
+8230-279154-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:591976
+8230-279154-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:592232
+8230-279154-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:592488
+8230-279154-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:592744
+8230-279154-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:593000
+8230-279154-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:593256
+8230-279154-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:593512
+8230-279154-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:593768
+8230-279154-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:594024
+8230-279154-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:594280
+8230-279154-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:594536
+8230-279154-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:594792
+8230-279154-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:595048
+8230-279154-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:595304
+8230-279154-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:595560
+8230-279154-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:595816
+8230-279154-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:596072
+8230-279154-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:596328
+8230-279154-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:596584
+8230-279154-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:596840
+8230-279154-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:597096
+8230-279154-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:597352
+8230-279154-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:597608
+8230-279154-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:597864
+8230-279154-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:598120
+8230-279154-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:598376
+8230-279154-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:598632
+8230-279154-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:598888
+8230-279154-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:599144
+8230-279154-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:599400
+8230-279154-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:599656
+8230-279154-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:599912
+8230-279154-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:600168
+8230-279154-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:600424
+8455-210777-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:600680
+8455-210777-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:600936
+8455-210777-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:601192
+8455-210777-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:601448
+8455-210777-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:601704
+8455-210777-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:601960
+8455-210777-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:602216
+8455-210777-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:602472
+8455-210777-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:602728
+8455-210777-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:602984
+8455-210777-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:603240
+8455-210777-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:603496
+8455-210777-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:603752
+8455-210777-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:604008
+8455-210777-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:604264
+8455-210777-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:604520
+8455-210777-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:604776
+8455-210777-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:605032
+8455-210777-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:605288
+8455-210777-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:605544
+8455-210777-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:605800
+8455-210777-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:606056
+8455-210777-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:606312
+8455-210777-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:606568
+8455-210777-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:606824
+8455-210777-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:607080
+8455-210777-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:607336
+8455-210777-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:607592
+8455-210777-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:607848
+8455-210777-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:608104
+8455-210777-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:608360
+8455-210777-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:608616
+8455-210777-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:608872
+8455-210777-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:609128
+8455-210777-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:609384
+8455-210777-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:609640
+8455-210777-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:609896
+8455-210777-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:610152
+8455-210777-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:610408
+8455-210777-0039 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:610664
+8455-210777-0040 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:610920
+8455-210777-0041 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:611176
+8455-210777-0042 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:611432
+8455-210777-0043 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:611688
+8455-210777-0044 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:611944
+8455-210777-0045 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:612200
+8455-210777-0046 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:612456
+8455-210777-0047 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:612712
+8455-210777-0048 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:612968
+8455-210777-0049 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:613224
+8455-210777-0050 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:613480
+8455-210777-0051 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:613736
+8455-210777-0052 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:613992
+8455-210777-0053 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:614248
+8455-210777-0054 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:614504
+8455-210777-0055 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:614760
+8455-210777-0056 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:615016
+8455-210777-0057 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:615272
+8455-210777-0058 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:615528
+8455-210777-0059 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:615784
+8455-210777-0060 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:616040
+8455-210777-0061 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:616296
+8455-210777-0062 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:616552
+8455-210777-0063 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:616808
+8455-210777-0064 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:617064
+8455-210777-0065 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:617320
+8455-210777-0066 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:617576
+8455-210777-0067 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:617832
+8455-210777-0068 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:618088
+8455-210777-0069 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:618344
+8455-210777-0070 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:618600
+8463-287645-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:618856
+8463-287645-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:619112
+8463-287645-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:619368
+8463-287645-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:619624
+8463-287645-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:619880
+8463-287645-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:620136
+8463-287645-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:620392
+8463-287645-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:620648
+8463-287645-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:620904
+8463-287645-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:621160
+8463-287645-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:621416
+8463-287645-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:621672
+8463-287645-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:621928
+8463-287645-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:622184
+8463-287645-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:622440
+8463-294825-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:622696
+8463-294825-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:622952
+8463-294825-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:623208
+8463-294825-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:623464
+8463-294825-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:623720
+8463-294825-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:623976
+8463-294825-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:624232
+8463-294825-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:624488
+8463-294825-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:624744
+8463-294825-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:625000
+8463-294825-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:625256
+8463-294825-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:625512
+8463-294825-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:625768
+8463-294825-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:626024
+8463-294825-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:626280
+8463-294825-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:626536
+8463-294825-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:626792
+8463-294825-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:627048
+8463-294825-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:627304
+8463-294825-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:627560
+8463-294828-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:627816
+8463-294828-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:628072
+8463-294828-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:628328
+8463-294828-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:628584
+8463-294828-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:628840
+8463-294828-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:629096
+8463-294828-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:629352
+8463-294828-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:629608
+8463-294828-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:629864
+8463-294828-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:630120
+8463-294828-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:630376
+8463-294828-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:630632
+8463-294828-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:630888
+8463-294828-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:631144
+8463-294828-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:631400
+8463-294828-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:631656
+8463-294828-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:631912
+8463-294828-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:632168
+8463-294828-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:632424
+8463-294828-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:632680
+8463-294828-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:632936
+8463-294828-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:633192
+8463-294828-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:633448
+8463-294828-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:633704
+8463-294828-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:633960
+8463-294828-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:634216
+8463-294828-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:634472
+8463-294828-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:634728
+8463-294828-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:634984
+8463-294828-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:635240
+8463-294828-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:635496
+8463-294828-0031 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:635752
+8463-294828-0032 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:636008
+8463-294828-0033 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:636264
+8463-294828-0034 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:636520
+8463-294828-0035 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:636776
+8463-294828-0036 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:637032
+8463-294828-0037 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:637288
+8463-294828-0038 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:637544
+8555-284447-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:637800
+8555-284447-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:638056
+8555-284447-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:638312
+8555-284447-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:638568
+8555-284447-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:638824
+8555-284447-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:639080
+8555-284447-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:639336
+8555-284447-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:639592
+8555-284447-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:639848
+8555-284447-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:640104
+8555-284447-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:640360
+8555-284447-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:640616
+8555-284447-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:640872
+8555-284447-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:641128
+8555-284447-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:641384
+8555-284447-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:641640
+8555-284447-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:641896
+8555-284447-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:642152
+8555-284447-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:642408
+8555-284447-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:642664
+8555-284447-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:642920
+8555-284447-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:643176
+8555-284447-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:643432
+8555-284447-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:643688
+8555-284447-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:643944
+8555-284449-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:644200
+8555-284449-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:644456
+8555-284449-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:644712
+8555-284449-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:644968
+8555-284449-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:645224
+8555-284449-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:645480
+8555-284449-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:645736
+8555-284449-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:645992
+8555-284449-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:646248
+8555-284449-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:646504
+8555-284449-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:646760
+8555-284449-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:647016
+8555-284449-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:647272
+8555-284449-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:647528
+8555-284449-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:647784
+8555-284449-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:648040
+8555-284449-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:648296
+8555-284449-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:648552
+8555-284449-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:648808
+8555-284449-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:649064
+8555-284449-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:649320
+8555-292519-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:649576
+8555-292519-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:649832
+8555-292519-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:650088
+8555-292519-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:650344
+8555-292519-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:650600
+8555-292519-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:650856
+8555-292519-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:651112
+8555-292519-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:651368
+8555-292519-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:651624
+8555-292519-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:651880
+8555-292519-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:652136
+8555-292519-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:652392
+8555-292519-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:652648
+8555-292519-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:652904
+8555-292519-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:653160
+8555-292519-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:653416
+908-157963-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:653671
+908-157963-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:653926
+908-157963-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:654181
+908-157963-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:654436
+908-157963-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:654691
+908-157963-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:654946
+908-157963-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:655201
+908-157963-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:655456
+908-157963-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:655711
+908-157963-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:655966
+908-157963-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:656221
+908-157963-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:656476
+908-157963-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:656731
+908-157963-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:656986
+908-157963-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:657241
+908-157963-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:657496
+908-157963-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:657751
+908-157963-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:658006
+908-157963-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:658261
+908-157963-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:658516
+908-157963-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:658771
+908-157963-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:659026
+908-157963-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:659281
+908-157963-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:659536
+908-157963-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:659791
+908-157963-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:660046
+908-157963-0026 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:660301
+908-157963-0027 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:660556
+908-157963-0028 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:660811
+908-157963-0029 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:661066
+908-157963-0030 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:661321
+908-31957-0000 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:661575
+908-31957-0001 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:661829
+908-31957-0002 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:662083
+908-31957-0003 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:662337
+908-31957-0004 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:662591
+908-31957-0005 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:662845
+908-31957-0006 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:663099
+908-31957-0007 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:663353
+908-31957-0008 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:663607
+908-31957-0009 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:663861
+908-31957-0010 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:664115
+908-31957-0011 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:664369
+908-31957-0012 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:664623
+908-31957-0013 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:664877
+908-31957-0014 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:665131
+908-31957-0015 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:665385
+908-31957-0016 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:665639
+908-31957-0017 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:665893
+908-31957-0018 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:666147
+908-31957-0019 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:666401
+908-31957-0020 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:666655
+908-31957-0021 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:666909
+908-31957-0022 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:667163
+908-31957-0023 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:667417
+908-31957-0024 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:667671
+908-31957-0025 /root/k0/egs/Capstone_ASR/mfcc/cmvn_test.ark:667925

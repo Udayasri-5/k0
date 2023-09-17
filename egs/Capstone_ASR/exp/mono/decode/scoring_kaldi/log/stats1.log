@@ -1,0 +1,10 @@
+# cat /root/k0/egs/Capstone_ASR/exp/mono/decode/scoring_kaldi/penalty_0.0/7.txt | align-text --special-symbol='***' ark:/root/k0/egs/Capstone_ASR/exp/mono/decode/scoring_kaldi/test_filt.txt ark:- ark,t:- | /root/k0/egs/Capstone_ASR/utils/scoring/wer_per_utt_details.pl --special-symbol '***' | tee /root/k0/egs/Capstone_ASR/exp/mono/decode/scoring_kaldi/wer_details/per_utt | /root/k0/egs/Capstone_ASR/utils/scoring/wer_per_spk_details.pl /root/k0/egs/Capstone_ASR/data/test/utt2spk > /root/k0/egs/Capstone_ASR/exp/mono/decode/scoring_kaldi/wer_details/per_spk 
+# Started at Wed Aug 30 09:58:55 IST 2023
+#
+align-text '--special-symbol=***' ark:/root/k0/egs/Capstone_ASR/exp/mono/decode/scoring_kaldi/test_filt.txt ark:- ark,t:- 
+/root/k0/egs/Capstone_ASR/utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
+LOG (align-text[5.5.15~1-c74b]:main():align-text.cc:135) Done 2620 sentences, failed for 0
+/root/k0/egs/Capstone_ASR/utils/scoring/wer_per_utt_details.pl: Note: handling as utf-8 text
+/root/k0/egs/Capstone_ASR/utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
+# Accounting: time=1 threads=1
+# Ended (code 0) at Wed Aug 30 09:58:56 IST 2023, elapsed time 1 seconds

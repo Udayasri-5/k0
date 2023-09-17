@@ -1,0 +1,2 @@
+compute-cmvn-stats --spk2utt=ark:/root/k0/egs/Capstone_ASR/data/train/spk2utt scp:/root/k0/egs/Capstone_ASR/data/train/feats.scp 'ark,scp:/root/k0/egs/Capstone_ASR/mfcc/cmvn_train.ark,/root/k0/egs/Capstone_ASR/mfcc/cmvn_train.scp' 
+LOG (compute-cmvn-stats[5.5.15~1-c74b]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 28539 utterances; 0 had errors.
